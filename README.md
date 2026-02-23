@@ -37,7 +37,7 @@ Subscription status analysis
 
 Interactive slicers for gender, category, shipping type, and subscription status
 
-## 🔍 Key Insights
+### 🔍 Key Insights
 
 Clothing is the highest revenue-generating category
 

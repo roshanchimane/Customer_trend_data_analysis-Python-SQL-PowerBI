@@ -25,7 +25,7 @@ Excel / CSV – Source data storage
 
 Python (optional) – Data preprocessing and validation
 
-## 📊 Dashboard Highlights
+### 📊 Dashboard Highlights
 
 Total customer count, average purchase amount, and review rating
 

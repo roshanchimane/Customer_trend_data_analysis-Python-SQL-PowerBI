@@ -48,7 +48,7 @@ A majority of customers are non-subscribers, indicating potential for subscripti
 Customer ratings remain stable across segments
 
 
-## 🚀 Use Cases
+### 🚀 Use Cases
 
 Customer segmentation and targeting
 

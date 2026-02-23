@@ -58,6 +58,6 @@ Subscription strategy improvement
 
 Business and executive reporting
 
-## ✅ Conclusion
+### ✅ Conclusion
 
 This project demonstrates practical data analytics skills by transforming raw customer data into meaningful business insights using SQL and Power BI. It is well-suited for data analyst portfolios and entry-level analytics roles.

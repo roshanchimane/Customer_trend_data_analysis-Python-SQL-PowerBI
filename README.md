@@ -15,7 +15,7 @@ Understand subscription adoption patterns
 
 Present insights using interactive visualizations
 
-## 🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 
 Power BI – Dashboard development, DAX measures, data modeling
 
